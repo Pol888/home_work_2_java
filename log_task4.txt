@@ -1,0 +1,4 @@
+янв. 25, 2023 2:00:13 PM org.example.tasks task4
+INFO: Все в норме
+янв. 25, 2023 2:00:17 PM org.example.tasks task4
+WARNING: Чтото не так!!!
